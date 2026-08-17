@@ -5,8 +5,8 @@
 | Field | Details |
 |---|---|
 | **Name** | Kunal Singh |
-| **Register Number** | *Enter your register number* |
-| **Section** | *Enter your section* |
+| **Register Number** | *231FA04G22* |
+| **Section** | *15* |
 
 ---
 
